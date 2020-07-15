@@ -1,0 +1,180 @@
+[INFO ] [views.py     line:19  ] [2020-04-23 15:46:42,011] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:20  ] [2020-04-23 15:46:42,011] [9696   ] [请求:[<WSGIRequest: POST '/api/appreadact'>]]
+[INFO ] [views.py     line:21  ] [2020-04-23 15:46:42,011] [9696   ] [请求path:[/api/appreadact]]
+[INFO ] [views.py     line:22  ] [2020-04-23 15:46:42,011] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:23  ] [2020-04-23 15:46:42,011] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 15:46:42,012] [9696   ] [请求full_path:[https://localhost:8000/api/appreadact]]
+[INFO ] [views.py     line:33  ] [2020-04-23 15:46:42,012] [9696   ] [param1=[appreadact]]
+[INFO ] [appreadact.py line:16  ] [2020-04-23 15:46:42,701] [9696   ] [----------------------appreadact_begin---------------------------]
+[INFO ] [appreadact.py line:24  ] [2020-04-23 15:46:42,701] [9696   ] [trantype=[getlist]]
+[INFO ] [appreadact.py line:42  ] [2020-04-23 15:46:42,701] [9696   ] [----------------------Admin-getfilelist-begin---------------------------]
+[INFO ] [appreadact.py line:111 ] [2020-04-23 15:46:42,862] [9696   ] [----------------------Admin-getfilelist-end---------------------------]
+[INFO ] [appreadact.py line:36  ] [2020-04-23 15:46:42,871] [9696   ] [----------------------appreadact_end---------------------------]
+[INFO ] [views.py     line:81  ] [2020-04-23 15:46:42,871] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 15:46:42,871] [9696   ] [{"respcode": "000000", "respmsg": "上传成功", "trantype": "getlist", "list": [{"filename": "射雕（金庸）.txt", "fileid": 14, "msg": "南宋末年，金兵入侵，朝廷奸臣当道。全真派丘处机因杀死汉奸王道乾，被官兵追杀，逃到江南一个小村牛家庄，与隐居在此处的爱国义土郭啸天和杨铁心一见如故，以“靖、康”为他俩即将出生的孩子命名，并留下一对短剑作为信物...", "class": "小说", "colnum": 1}]}]
+[INFO ] [views.py     line:85  ] [2020-04-23 15:46:42,873] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 15:46:42,873] [9696   ] [交易处理时间: 0:00:00.862707]
+[INFO ] [views.py     line:19  ] [2020-04-23 15:46:43,934] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:20  ] [2020-04-23 15:46:43,934] [9696   ] [请求:[<WSGIRequest: POST '/api/appreadact'>]]
+[INFO ] [views.py     line:21  ] [2020-04-23 15:46:43,935] [9696   ] [请求path:[/api/appreadact]]
+[INFO ] [views.py     line:22  ] [2020-04-23 15:46:43,935] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:23  ] [2020-04-23 15:46:43,935] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 15:46:43,935] [9696   ] [请求full_path:[https://localhost:8000/api/appreadact]]
+[INFO ] [views.py     line:33  ] [2020-04-23 15:46:43,935] [9696   ] [param1=[appreadact]]
+[INFO ] [appreadact.py line:16  ] [2020-04-23 15:46:44,602] [9696   ] [----------------------appreadact_begin---------------------------]
+[INFO ] [appreadact.py line:24  ] [2020-04-23 15:46:44,603] [9696   ] [trantype=[getlist]]
+[INFO ] [appreadact.py line:42  ] [2020-04-23 15:46:44,603] [9696   ] [----------------------Admin-getfilelist-begin---------------------------]
+[INFO ] [appreadact.py line:111 ] [2020-04-23 15:46:44,808] [9696   ] [----------------------Admin-getfilelist-end---------------------------]
+[INFO ] [appreadact.py line:36  ] [2020-04-23 15:46:44,809] [9696   ] [----------------------appreadact_end---------------------------]
+[INFO ] [views.py     line:81  ] [2020-04-23 15:46:44,809] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 15:46:44,809] [9696   ] [{"respcode": "000000", "respmsg": "上传成功", "trantype": "getlist", "list": [{"filename": "射雕（金庸）.txt", "fileid": 14, "msg": "南宋末年，金兵入侵，朝廷奸臣当道。全真派丘处机因杀死汉奸王道乾，被官兵追杀，逃到江南一个小村牛家庄，与隐居在此处的爱国义土郭啸天和杨铁心一见如故，以“靖、康”为他俩即将出生的孩子命名，并留下一对短剑作为信物...", "class": "小说", "colnum": 1}, {"filename": "射雕英雄传.txt", "fileid": 12, "msg": null, "class": "其他", "colnum": 0}]}]
+[INFO ] [views.py     line:85  ] [2020-04-23 15:46:44,809] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 15:46:44,809] [9696   ] [交易处理时间: 0:00:00.875689]
+[INFO ] [views.py     line:19  ] [2020-04-23 15:53:52,341] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:20  ] [2020-04-23 15:53:52,341] [9696   ] [请求:[<WSGIRequest: POST '/api/appreadact'>]]
+[INFO ] [views.py     line:21  ] [2020-04-23 15:53:52,342] [9696   ] [请求path:[/api/appreadact]]
+[INFO ] [views.py     line:22  ] [2020-04-23 15:53:52,342] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:23  ] [2020-04-23 15:53:52,342] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 15:53:52,342] [9696   ] [请求full_path:[https://localhost:8000/api/appreadact]]
+[INFO ] [views.py     line:33  ] [2020-04-23 15:53:52,342] [9696   ] [param1=[appreadact]]
+[ERROR] [views.py     line:61  ] [2020-04-23 15:54:02,345] [9696   ] [程序运行错误]
+Traceback (most recent call last):
+  File "D:\Anaconda\lib\site-packages\pymysql\connections.py", line 583, in connect
+    **kwargs)
+  File "D:\Anaconda\lib\socket.py", line 727, in create_connection
+    raise err
+  File "D:\Anaconda\lib\socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 217, in ensure_connection
+    self.connect()
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 195, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "D:\Anaconda\lib\site-packages\django\db\backends\mysql\base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "D:\Anaconda\lib\site-packages\pymysql\__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "D:\Anaconda\lib\site-packages\pymysql\connections.py", line 325, in __init__
+    self.connect()
+  File "D:\Anaconda\lib\site-packages\pymysql\connections.py", line 630, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '172.81.251.94' (timed out)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\zbookAdmin\zbookapp\views.py", line 39, in admin
+    mysavepoint = transaction.savepoint()
+  File "D:\Anaconda\lib\site-packages\django\db\transaction.py", line 49, in savepoint
+    return get_connection(using).savepoint()
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 322, in savepoint
+    if not self._savepoint_allowed():
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 312, in _savepoint_allowed
+    return self.features.uses_savepoints and not self.get_autocommit()
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 379, in get_autocommit
+    self.ensure_connection()
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 217, in ensure_connection
+    self.connect()
+  File "D:\Anaconda\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 217, in ensure_connection
+    self.connect()
+  File "D:\Anaconda\lib\site-packages\django\db\backends\base\base.py", line 195, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "D:\Anaconda\lib\site-packages\django\db\backends\mysql\base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "D:\Anaconda\lib\site-packages\pymysql\__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "D:\Anaconda\lib\site-packages\pymysql\connections.py", line 325, in __init__
+    self.connect()
+  File "D:\Anaconda\lib\site-packages\pymysql\connections.py", line 630, in connect
+    raise exc
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '172.81.251.94' (timed out)")
+[INFO ] [views.py     line:81  ] [2020-04-23 15:54:02,355] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 15:54:02,355] [9696   ] [{"respcode": "999999", "respmsg": "系统错误:(2003, \"Can't connect to MySQL server on '172.81.251.94' (timed out)\")"}]
+[INFO ] [views.py     line:85  ] [2020-04-23 15:54:02,355] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 15:54:02,355] [9696   ] [交易处理时间: 0:00:10.015209]
+[INFO ] [views.py     line:19  ] [2020-04-23 17:16:04,904] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:20  ] [2020-04-23 17:16:04,906] [9696   ] [请求:[<WSGIRequest: POST '/api/crudcfg/'>]]
+[INFO ] [views.py     line:21  ] [2020-04-23 17:16:04,906] [9696   ] [请求path:[/api/crudcfg/]]
+[INFO ] [views.py     line:22  ] [2020-04-23 17:16:04,907] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:19  ] [2020-04-23 17:16:04,907] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:23  ] [2020-04-23 17:16:04,907] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 17:16:04,908] [9696   ] [请求full_path:[https://localhost:8000/api/crudcfg/]]
+[INFO ] [views.py     line:20  ] [2020-04-23 17:16:04,907] [9696   ] [请求:[<WSGIRequest: POST '/api/useraction/'>]]
+[INFO ] [views.py     line:33  ] [2020-04-23 17:16:04,908] [9696   ] [param1=[crudcfg]]
+[INFO ] [views.py     line:21  ] [2020-04-23 17:16:04,908] [9696   ] [请求path:[/api/useraction/]]
+[INFO ] [views.py     line:22  ] [2020-04-23 17:16:04,909] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:23  ] [2020-04-23 17:16:04,909] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 17:16:04,909] [9696   ] [请求full_path:[https://localhost:8000/api/useraction/]]
+[INFO ] [views.py     line:33  ] [2020-04-23 17:16:04,910] [9696   ] [param1=[useraction]]
+[INFO ] [views.py     line:81  ] [2020-04-23 17:16:05,656] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 17:16:05,656] [9696   ] [<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>我的网站</title>
+</head>
+<body>
+<h1>欢迎光临我的网站！</h1>
+</body>
+</html>]
+[INFO ] [views.py     line:85  ] [2020-04-23 17:16:05,656] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 17:16:05,656] [9696   ] [交易处理时间: 0:00:00.749993]
+[INFO ] [views.py     line:81  ] [2020-04-23 17:16:05,661] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 17:16:05,661] [9696   ] [<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>我的网站</title>
+</head>
+<body>
+<h1>欢迎光临我的网站！</h1>
+</body>
+</html>]
+[INFO ] [views.py     line:85  ] [2020-04-23 17:16:05,661] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 17:16:05,661] [9696   ] [交易处理时间: 0:00:00.756976]
+[INFO ] [views.py     line:19  ] [2020-04-23 17:16:41,482] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:20  ] [2020-04-23 17:16:41,482] [9696   ] [请求:[<WSGIRequest: POST '/api/useraction/'>]]
+[INFO ] [views.py     line:21  ] [2020-04-23 17:16:41,483] [9696   ] [请求path:[/api/useraction/]]
+[INFO ] [views.py     line:22  ] [2020-04-23 17:16:41,483] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:23  ] [2020-04-23 17:16:41,483] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 17:16:41,483] [9696   ] [请求full_path:[https://localhost:8000/api/useraction/]]
+[INFO ] [views.py     line:33  ] [2020-04-23 17:16:41,484] [9696   ] [param1=[useraction]]
+[INFO ] [views.py     line:81  ] [2020-04-23 17:16:42,178] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 17:16:42,178] [9696   ] [<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>我的网站</title>
+</head>
+<body>
+<h1>欢迎光临我的网站！</h1>
+</body>
+</html>]
+[INFO ] [views.py     line:85  ] [2020-04-23 17:16:42,178] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 17:16:42,178] [9696   ] [交易处理时间: 0:00:00.697159]
+[INFO ] [views.py     line:19  ] [2020-04-23 17:16:43,974] [9696   ] [----------------------Admin-begin---------------------------]
+[INFO ] [views.py     line:20  ] [2020-04-23 17:16:43,974] [9696   ] [请求:[<WSGIRequest: POST '/api/useraction/'>]]
+[INFO ] [views.py     line:21  ] [2020-04-23 17:16:43,975] [9696   ] [请求path:[/api/useraction/]]
+[INFO ] [views.py     line:22  ] [2020-04-23 17:16:43,975] [9696   ] [请求method:[POST]]
+[INFO ] [views.py     line:23  ] [2020-04-23 17:16:43,975] [9696   ] [请求GET:[<QueryDict: {}>]]
+[INFO ] [views.py     line:27  ] [2020-04-23 17:16:43,975] [9696   ] [请求full_path:[https://localhost:8000/api/useraction/]]
+[INFO ] [views.py     line:33  ] [2020-04-23 17:16:43,975] [9696   ] [param1=[useraction]]
+[INFO ] [views.py     line:81  ] [2020-04-23 17:16:44,666] [9696   ] [<HttpResponse status_code=200, "text/html; charset=utf-8">]
+[INFO ] [views.py     line:82  ] [2020-04-23 17:16:44,666] [9696   ] [<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>我的网站</title>
+</head>
+<body>
+<h1>欢迎光临我的网站！</h1>
+</body>
+</html>]
+[INFO ] [views.py     line:85  ] [2020-04-23 17:16:44,666] [9696   ] [----------------------Admin-end---------------------------]
+[INFO ] [views.py     line:86  ] [2020-04-23 17:16:44,666] [9696   ] [交易处理时间: 0:00:00.692151]

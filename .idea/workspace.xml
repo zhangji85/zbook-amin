@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9102bd8c-4fd1-481a-b530-a1d7f5380afe" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZpHjVPGhhBlHKqaRfc1WVt4L14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python3" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\zbookAdmin\media\userpro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\zbookAdmin\media\userpro" />
+      <recent name="E:\zbookAdmin\static\images\userpro" />
+      <recent name="E:\zbookAdmin\static" />
+      <recent name="E:\zbookAdmin\templates" />
+      <recent name="E:\zbookAdmin\static\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.zbookAdmin">
+    <configuration name="TFIDF_LSI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zbookAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zbookapp/createanswer/Preprocess/prefun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zbookapp/createanswer/Preprocess/prefun/TFIDF_LSI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="appview" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zbookAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zbookapp/appact" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zbookapp/appact/appview.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zbookAdmin" type="Python.DjangoServer" factoryName="Django server">
+      <module name="zbookAdmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="zbookAdmin.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.appview" />
+        <item itemvalue="Python.TFIDF_LSI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9102bd8c-4fd1-481a-b530-a1d7f5380afe" name="默认更改列表" comment="" />
+      <created>1585529250182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585529250182</updated>
+      <workItem from="1585529251526" duration="17600000" />
+      <workItem from="1585574302262" duration="1367000" />
+      <workItem from="1585616695631" duration="636000" />
+      <workItem from="1585666650402" duration="3175000" />
+      <workItem from="1585701983129" duration="981000" />
+      <workItem from="1585746696034" duration="8061000" />
+      <workItem from="1586076867300" duration="6105000" />
+      <workItem from="1586152529432" duration="16748000" />
+      <workItem from="1586175881706" duration="6689000" />
+      <workItem from="1586224781114" duration="598000" />
+      <workItem from="1586240057530" duration="3921000" />
+      <workItem from="1586262894480" duration="1534000" />
+      <workItem from="1586409953503" duration="17679000" />
+      <workItem from="1586441887859" duration="3285000" />
+      <workItem from="1586486224917" duration="622000" />
+      <workItem from="1587100229248" duration="3884000" />
+      <workItem from="1587170219686" duration="4389000" />
+      <workItem from="1587288166222" duration="1470000" />
+      <workItem from="1587343629495" duration="143000" />
+      <workItem from="1587627485766" duration="693000" />
+      <workItem from="1587688466186" duration="2473000" />
+      <workItem from="1587777609725" duration="219000" />
+      <workItem from="1587950305335" duration="3145000" />
+      <workItem from="1588035233900" duration="6347000" />
+      <workItem from="1588120700224" duration="9106000" />
+      <workItem from="1588769632196" duration="2002000" />
+      <workItem from="1588820918870" duration="19191000" />
+      <workItem from="1588868347600" duration="821000" />
+      <workItem from="1588900754298" duration="9320000" />
+      <workItem from="1588914456235" duration="9406000" />
+      <workItem from="1589089642445" duration="1657000" />
+      <workItem from="1589185407155" duration="610000" />
+      <workItem from="1589335856812" duration="3000" />
+      <workItem from="1589700458599" duration="5191000" />
+      <workItem from="1589792808784" duration="1891000" />
+      <workItem from="1589951982212" duration="3383000" />
+      <workItem from="1589989780480" duration="2278000" />
+      <workItem from="1590118308135" duration="27399000" />
+      <workItem from="1590166479556" duration="6875000" />
+      <workItem from="1590459681465" duration="390000" />
+      <workItem from="1590973626264" duration="42000" />
+      <workItem from="1592322093405" duration="745000" />
+      <workItem from="1592379941832" duration="1181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zbookAdmin$TFIDF_LSI.coverage" NAME="TFIDF_LSI Coverage Results" MODIFIED="1587288234300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zbookapp/createanswer/Preprocess/prefun" />
+    <SUITE FILE_PATH="coverage/zbookAdmin$appview.coverage" NAME="appview Coverage Results" MODIFIED="1590139162946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zbookapp/appact" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+github新建存储库
+
+vuepress安装：
+git clone <存储库地址>
+
+npm init -y
+
+yarn global add vuepress
+
+yarn add -D vuepress
+
+mkdir docs
+
+echo '# Hello VuePress!' >docs/README.md
+
