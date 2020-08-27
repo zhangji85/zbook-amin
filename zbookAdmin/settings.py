@@ -84,8 +84,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'zbook',
         'USER': 'root',
-        'PASSWORD': 'Zj_85;ZT_1212',
-        'HOST': '172.81.251.94',
+        'PASSWORD': '你的数据库连接密码',
+        'HOST': '你的数据库ip',
         'PORT': '3306',
     }
 }
